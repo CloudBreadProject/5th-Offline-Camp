@@ -3,7 +3,7 @@
 ### CloudBread Camp 는 CloudBread 프로젝트 소개와 더불어, 참여자분들과 함께 CloudBread 를 사용해보는 시간입니다.
 이 문서에서는 CloudBread 설치 작업 전 미리 수행해야 할 작업들을 소개합니다.
 
-### CloudBread 캠프 참여 전 필수 준비 과정
+### CloudBread 캠프 참여 전 **필수** 준비 과정
 **1. Unity3d 설치**
 - Unity3d 5.0 이상 설치 : [Unity 다운로드 페이지](http://unity3d.com/kr/get-unity/download?ref=personal)에서 받으실 수 있습니다.
 
