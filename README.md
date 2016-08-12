@@ -24,19 +24,19 @@ CloudBread 를 Azure 에 배포를 하시고 캠프에 참여하시면, 캠프�
 (캠프에서는 시간 관계상 개인 CloudBread 배포가 어렵기 때문에, 배포를 못하신 분들은 캠프에서는 데모용 CloudBread 서버를 제공합니다.)
 
 아래 문서와 영상을 참고하시면, 쉽게 배포를 진행 할 수 있습니다.
-```
-  [CloudBread 공식 Install Guide](https://github.com/CloudBreadProject/CloudBread/wiki/Install-guide-kor)
 
-  영상
-  1. [ARM 을 통한 서버 배포](https://youtu.be/dARMa4uek-U)
-  2. [Mobile App 연속배포 과정](https://youtu.be/jB3ZnOFR1bU)
-  3. [DB 접근을 위한 키 가져오기](https://youtu.be/Nkin4c1VwfY)
-  4. [DB 개채 생성](https://youtu.be/vdxv5AsqljY)
-  5. [생성된 DB 에 App 접근하기](https://youtu.be/2n8PE2J8R3E)
-  6. [소켓 설치](https://youtu.be/QrWfyd2sILE)
-  7. [스케줄러 서비스 연동](https://youtu.be/MdlRyRQxauQ)
-  8. [Admin Web 연속배포](https://youtu.be/RP7KwVxx9wE)
-```
+>[CloudBread 공식 Install Guide 문서](https://github.com/CloudBreadProject/CloudBread/wiki/Install-guide-kor)
+
+>CloudBread 공식 Install Guide 영상
+>>  1. [ARM 을 통한 서버 배포](https://youtu.be/dARMa4uek-U)
+>>  2. [Mobile App 연속배포 과정](https://youtu.be/jB3ZnOFR1bU)
+>>  3. [DB 접근을 위한 키 가져오기](https://youtu.be/Nkin4c1VwfY)
+>>  4. [DB 개채 생성](https://youtu.be/vdxv5AsqljY)
+>>  5. [생성된 DB 에 App 접근하기](https://youtu.be/2n8PE2J8R3E)
+>>  6. [소켓 설치](https://youtu.be/QrWfyd2sILE)
+>>  7. [스케줄러 서비스 연동](https://youtu.be/MdlRyRQxauQ)
+>>  8. [Admin Web 연속배포](https://youtu.be/RP7KwVxx9wE)
+
 
 - Microsoft ID 가입 후 체크 : 가입 여부 확인은, https://mail.live.com 에 접속해 메일박스가 이면 정상 계정입니다.
 - Microsoft Azure 등록 : CloudBread는 Microsoft Azure 클라우드 서비스의 PaaS 플랫폼을 이용해 개발되었습니다. CloudBread를 배포하기 위해서 먼저, Azure 등록을 수행해야 하며 무료 등록을 다음 링크에서 수행 가능합니다.(Chrome 브라우저에서 불가하며, IE도 버전에 따라 설치가 안될 수 있다고 합니다.) https://azure.microsoft.com/ko-kr/free/
